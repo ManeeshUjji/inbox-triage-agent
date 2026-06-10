@@ -1,0 +1,10 @@
+# n8n credentials and keys — never commit these
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
